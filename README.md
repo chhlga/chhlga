@@ -6,7 +6,8 @@ I’ve been building boring, reliable backend systems for more than a decade.
 
 ---
 
-### Many thanks to my co-author Bashik
+All my code co-authored and approved by [Bashik](bashik.md)
+
 <img width="254" height="254" alt="blobashik" src="https://github.com/user-attachments/assets/943dba57-848b-4f55-957f-16f3bab50fb6" />
 
 ---
@@ -29,17 +30,16 @@ I’ve been building boring, reliable backend systems for more than a decade.
 - Reliable, maintainable solutions over excessive abstraction  
 - Understanding the client’s needs is key to good architecture—not just technical skill  
 
-### In general, I work at the intersection of
-- Classical software engineering  
-- Distributed systems  
-- Automation and orchestration  
-- Applied AI (LLMs as infrastructure, not demos)  
+---
+
+### Bashik's curated list of repositories and resources. Check it out!
+
+- [Dotfiles](https://github.com/verlihirsh/dotfiles): My personal configuration files for various tools and environments.
+- [Jelvim](https://github.com/verlihirsh/jelvim): My lovely config for best text editor ever.
 
 ---
 
 ## Links
 - GitHub: https://github.com/verlihirsh  
 - LinkedIn: https://www.linkedin.com/in/chhlga
-
----
 
