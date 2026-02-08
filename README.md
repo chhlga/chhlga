@@ -8,7 +8,7 @@ I’ve been building boring, reliable backend systems for more than a decade.
 
 All my code co-authored and approved by [Bashik](bashik.md)
 
-<img width="254" height="254" alt="blobashik" src="https://github.com/user-attachments/assets/943dba57-848b-4f55-957f-16f3bab50fb6" />
+<img width="254" height="254" alt="blobashik" src="https://github.com/user-attachments/assets/c7c90248-7e86-4431-8758-d999b5dcdaf6" />
 
 ---
 
